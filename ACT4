@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act4.css">
+
+ <header>
+ 	<h1><center>MENU</center></h1>
+ 	<a href="activity4.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="activity4.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+<body>
+<center><a href="profiles.html"><img src="https://cdn-icons-png.flaticon.com/512/146/146016.png"style="width:100px;height:100px; " ></a><div class="p1"> <b>USERS INFORMATION</b><br><br><i><p>Information user means a person in our records designated by an owner to access information about the used by the owner.</p></i></div></center>
+
+<center><a href="favorites.html"><img src="https://icon-library.com/images/favorite-icon/favorite-icon-14.jpg"style="width:100px;height:100px;" ></a><div class="p1"><b>FAVORITES</b><br><br><i><p>Record the address of a website or other data to enable quick access in future.</p></i></div></center>
+
+</body>
+</html>
+
+body{
+     background-image: url("https://cdnb.artstation.com/p/assets/images/images/003/496/025/large/kailah-valentine-pastelgalaxyedit3.jpg?1474340178");
+    color: purple;
+
+}
+h1{
+         background-image: url("https://cdnb.artstation.com/p/assets/images/images/003/496/025/large/kailah-valentine-pastelgalaxyedit3.jpg?1474340178");
+    color: black;
+
+
+}
+
+p{
+     background-image:url("https://cdnb.artstation.com/p/assets/images/images/003/496/025/large/kailah-valentine-pastelgalaxyedit3.jpg?1474340178");
+    font-size: x-large;
+
+}
+
+body{
+   background-image: url("https://cdnb.artstation.com/p/assets/images/images/003/496/025/large/kailah-valentine-pastelgalaxyedit3.jpg?1474340178");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+table, td {
+
+    background-image: url("https://digitalsynopsis.com/wp-content/uploads/2017/02/beautiful-color-gradients-backgrounds-158-angel-care.png");
+      border: 5px solid black;
+      border-collapse: collapse;}
+     table {border-spacing: 10px;}
+     td {
+      padding: 10px;
+    }
+    
+    #b2 {
+    position: absolute;
+    top: 100px;
+    left: 1000px;
+    height: 100px;
+    width: 100px;}
+
+    h1{background-color: salmon; font-family: Times New Roman; font-size: 40px;}
+    h2{background-color: salmon; font-family: Times New Roman; font-size: 35px;}
+
+
+<!DOCTYPE html>
+<html>
+<title>WEBPAGE</title>
+<link rel="stylesheet" href="act4.css">
+
+<head><h1><center>ACTIVITY # 4</center></h1></head>
+ <header>
+ 	
+<a href="act4.html"><http://iconbug.com/download/size/128/icon/6329/small-home/"style="width:80px;height:80px;" ></a>
+<a href="aboutxact4.html"><img src="https://cdn.icon-icons.com/icons2/916/PNG/512/Menu_icon_icon-icons.com_71858.png"style="width:80px;height:80px;" ></a>
+                    
+<body>
+
+<center><a href="https://www.twitter.com/"target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/124/124021.png"style="width:120px;height:120px;" ></a><div class="p1"><br><i><p>Search for information about (someone or something) on the internet using the search engine Google.</p></i></div></center>
+
+<center><a href="https://www.tiktok.com/"target="_blank"><img src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-april-tutuapp-5.png"style="width:120px;height:120px;" ></a><br><div class="p1"><i><p> Google's very popular, free Web-based email service, which is supported by advertising similar to Google's Web search.</p></i></div></center>
+
+<center><a href="https://www.facebook.com/"target="_blank"><img src="https://seeklogo.com/images/F/facebook-icon-circle-logo-09F32F61FF-seeklogo.com.png"style="width:120px;height:120px;"></a><div class="p1"><p><i>The official stated purpose of Facebook is to make the world more open and connected. Facebook's latest mission statement is that people use Facebook to stay connected with friends and family, discover what's going on in the world and share and express what matters to them. </i></p></div></center>
+
+<center><a href="https://www.youtube.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png"style="width:120px;height:120px;"></a><div class="p1"><p><i>YouTube is a video sharing service that allows users to watch videos posted by other users and upload videos of their own.</i></p></div></center>
+
+<center><a href="https://www.instagram.com/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"style="width:120;height:120px;"></a><div class="p1"><p><i> Instagram is an online photo sharing service. It allows you to apply different types of photo filters to your pictures with a single click, then share them with others.</i></p></div><br><br></center>
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+
+<link rel="stylesheet" href="act4.css">
+
+ <header>
+ 	<h1><center>FAVORITES</center></h1>
+ 	<a href="activity4.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="aboutxact4.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ 
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" href="act4.css">
+
+ <header>
+ 	<h1><center>USER INFORMATION</center></h1>
+ 	<a href="activity4.html"><img src="https://cdn-icons-png.flaticon.com/512/25/25694.png"style="width:60px;height:60px;"></a>
+ <a href="aboutxact4.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Back_Arrow.svg/1200px-Back_Arrow.svg.png"style="width:60px;height:70px;"></a>
+ </header>
+ <h2><center>ALPECHE,JEMAICA S. </center></h2>
+<body>
+	<div id="b2"><img src="https://scontent.fmnl17-3.fna.fbcdn.net/v/t1.15752-9/279217539_768484327854467_5828808733084162440_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEw6KumtT0DqPBd0ZRqyhEWUHFI_j-9ButQcUj-P70G65gdINl8ZzuuBDFgK_ApT_OGds3zkjONIPrU7JT3T_Lz&_nc_ohc=jYN-I0Z-YpkAX--bwwz&_nc_ht=scontent.fmnl17-3.fna&oh=03_AVLVXVl-5LGkQt4ekOrvdZMXEHALjDEoen45vnH51uxSIA&oe=63008346"style="width:130px;height:170px;" ></div><center><table style="width:100%">
+  
+  <tr>
+    <td><center>PLACE OF BIRTH </center></td>
+   
+
+   <td><center>QUEZON CITY </center></td>
+   
+  </tr>
+  <tr>
+    <td><center>CIVIL STATUS </center></td>
+    <td><center>SINGLE </center></td>
+
+  </tr>
+  <tr>
+    <td><center>RELIGION </center></td>
+    <td><center>CATHOLIC </center></td>
+   
+  </tr>
+
+  <tr>
+    <td><center>CITIZENSHIP </center></td>
+    <td><center>FILIPINO</center></td>
+   
+  </tr>
+  <tr>
+    <td><center>HEIGHT </center></td>
+    <td><center>4’11 </center></td>
+   
+  </tr>
+</table></center>
+
+</body>
+</html>
+
